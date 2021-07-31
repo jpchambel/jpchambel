@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @jpchambel, from Lisboa, Portugal
-- 👀 I’m interested in living a good life.
-- 🌱 I’m currently learning C#
-- 📫 How to reach me : DM me
+Hi, I'm jpchambel.
 
-<!---
-jpchambel/jpchambel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm learning c# so I can be part of the programmer class.
+
+You can find my music here:
+https://open.spotify.com/artist/61gx4zfrKtyNQlYBz8caP3
+
+
